@@ -17,7 +17,7 @@
     "lodash": "^3.2.0",
     "machine": "^10.3.1",
     "machinepack-fs": "^2.1.0",
-    "unzip2": "^0.1.11"
+    "unzip2": "^0.2.5"
   },
   "devDependencies": {
     "test-machinepack-mocha": "^2.1.1"
